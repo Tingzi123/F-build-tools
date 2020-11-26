@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html --open",
-    "lint": "eslint \"src/\" --cache --fix --format table",
-    "format": "prettier --write \"src/**/*.{js,css,scss}\""
+    "format": "prettier --write \"**/*.{js,css,scss,md}\"",
+    "lint": "eslint \"src/\" --cache --fix --format table"
   },
   "author": "",
   "license": "ISC",
