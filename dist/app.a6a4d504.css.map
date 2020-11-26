@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\style\\index.scss","src\\style\\_mixins.scss"],"names":[],"mappings":"AAEA;ECDE;EACA;EACA","file":"app.a6a4d504.css","sourceRoot":"..","sourcesContent":["@import \"mixins\";\r\n\r\nh1 {\r\n  @include title;\r\n}","@mixin title {\r\n  color: #ff00ff;\r\n  font-size: 72px;\r\n  font-family: monospace;\r\n}"]}
